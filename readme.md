@@ -32,3 +32,4 @@ DREAM NEST is a comprehensive and Responsive full-stack project designed for hom
 *JWT authentication secures the sign-up and login pages.
 13.Footer:
 *Provides contact details and email information.
+/
